@@ -1,0 +1,2 @@
+github "ReSwift/ReSwift"
+github "ReactiveX/RxSwift" ~> 4.0

@@ -1,0 +1,27 @@
+{
+  "Mac" : [
+    {
+      "name" : "ReSwift",
+      "hash" : "14c07a45efbf15b8d9d774a96d35d0c745722afc57eee4cc2acf75dfcd3d8186"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "ReSwift",
+      "hash" : "87e8c09e6eccec216a14216e0f570204884f4fa82969eeceb8db8decb776da48"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "ReSwift",
+      "hash" : "2a4e64fc0143f433f74b11946e8df2b7d587d17a48381d0c96675b377adc7bda"
+    }
+  ],
+  "commitish" : "4.0.1",
+  "iOS" : [
+    {
+      "name" : "ReSwift",
+      "hash" : "7d66bf725df96ff465d1ad32ba78966d4b2e72472018008a54cc4118dcb3d036"
+    }
+  ]
+}
